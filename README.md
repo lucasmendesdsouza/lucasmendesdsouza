@@ -1,4 +1,4 @@
-- 🔭 Trbalhando com front-end
+- 🔭 Trabalhando com front-end
 - 🌱 Estudando Python e Java-script
 - ⚡ Pronouns: Ele/Senhor
 -->
